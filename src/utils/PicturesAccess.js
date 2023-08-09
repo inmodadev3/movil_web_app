@@ -1,0 +1,1 @@
+export const InmodaLogo = 'http://10.10.10.128/ownCloud/fotos_nube/INMODA.png'
